@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV for [English]() or for [Chinese]().
+You can see my Résumé in [English](http://zym1010.github.io/files/cv/resume-english.pdf) or for [Chinese](http://zym1010.github.io/files/cv/resume-chinese.pdf).
 
 Education
 ======
