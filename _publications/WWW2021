@@ -1,0 +1,15 @@
+---
+title: "Fast Evaluation for Relevant Quantities of Opinion Dynamics"
+collection: publications
+permalink: /publication/WWW2021
+excerpt: 'One of the main subjects in the field of social networks is to quantify conflict, disagreement, controversy, and polarization, and some quantitative indicators have been developed to quantify these concepts. However, direct computation of these indicators involves the operations of matrix inversion and multiplication, which make it computationally infeasible for large-scale graphs with millions of nodes. In this paper, by reducing the problem of computing relevant quantities to evaluating ℓ2 norms of some vectors, we present a nearly linear time algorithm to estimate all these quantities. Our algorithm is based on the Laplacian solvers, and has a proved theoretical guarantee of error for each quantity. We execute extensive numerical experiments on a variety of real networks, which demonstrate that our approximation algorithm is efficient and effective, scalable to large graphs having millions of nodes.'
+accepted date: 2021-01-16
+venue: 'Proceedings of the Web Conference (WWW 2021), Ljubljana, Slovenia'
+paperurl: 'http://vivian1tsui.github.io/files/WWW2021.pdf'
+citation: 'Xu Wanyue, Bao Qi, and Zhang Zhongzhi. Fast evaluation for relevant quantities of opinion dynamics. In: Proceedings of the Web Conference (WWW 2021), Ljubljana, Slovenia, April 19-23, 2021, pp.2037-2045.'
+---
+One of the main subjects in the field of social networks is to quantify conflict, disagreement, controversy, and polarization, and some quantitative indicators have been developed to quantify these concepts. However, direct computation of these indicators involves the operations of matrix inversion and multiplication, which make it computationally infeasible for large-scale graphs with millions of nodes. In this paper, by reducing the problem of computing relevant quantities to evaluating ℓ2 norms of some vectors, we present a nearly linear time algorithm to estimate all these quantities. Our algorithm is based on the Laplacian solvers, and has a proved theoretical guarantee of error for each quantity. We execute extensive numerical experiments on a variety of real networks, which demonstrate that our approximation algorithm is efficient and effective, scalable to large graphs having millions of nodes.
+
+[Download paper here](http://vivian1tsui.github.io/files/WWW2021.pdf)
+
+Recommended citation: Xu Wanyue, Bao Qi, and Zhang Zhongzhi. Fast evaluation for relevant quantities of opinion dynamics. In: Proceedings of the Web Conference (WWW 2021), Ljubljana, Slovenia, April 19-23, 2021, pp.2037-2045.
