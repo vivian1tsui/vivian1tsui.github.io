@@ -15,17 +15,15 @@ Education
 * M.S. in computer technology, Fudan University, 2019-2021
 * Ph.D in cyber security, Fudan University, 2021-2024 (expected)
 
-Work experience
+Work experience Research interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019: Research Assistant
+  * Linear algebra
+  * Fudan University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020: Research Assistant
+  * Linear algebra
+  * Fudan University
   
 Skills
 ======
