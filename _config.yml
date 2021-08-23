@@ -11,7 +11,7 @@ title                    : "Wanyue Xu"
 title_separator          : "-"
 name                     : &name "Wanyue Xu"
 description              : &description "Ph.D. student at Fudan University"
-url                      : https://xuwy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vivian1tsui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vivian1tsui/xuwy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. student @ School of Computer Science and Shanghai Key Laboratory of Intelligent Information Processing, Fudan University"
   location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=jzQeyNoAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
