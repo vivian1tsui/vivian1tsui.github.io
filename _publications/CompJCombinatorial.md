@@ -1,0 +1,14 @@
+---
+title: "Some Combinatorial Problems in Power-Law Graphs"
+collection: publications
+permalink: /publication/CompJCombinatorial
+excerpt: 'The power-law behavior is ubiquitous in a majority of real-world networks, and it was shown to have a strong effect on various combinatorial, structural and dynamical properties of graphs. For example, it has been shown that in real-life power-law networks, both the matching number and the domination number are relatively smaller, compared with homogeneous graphs. In this paper, we study analytically several combinatorial problems for two power-law graphs with the same number of vertices, edges and the same power exponent. For both graphs, we determine exactly or recursively their matching number, independence number, domination number, the number of maximum matchings, the number of maximum independent sets and the number of minimum dominating sets. We show that power-law behavior itself cannot characterize the combinatorial properties of a heterogenous graph. Since the combinatorial properties studied here have found wide applications in different fields, such as structural controllability of complex networks, our work offers insight in the applications of these combinatorial problems in power-law graphs.'
+date: 2021-03-27
+venue: 'The Computer Journal'
+paperurl: 'http://vivian1tsui.github.io/files/CompJCombinatorial.pdf'
+citation: 'Jiang Che, Xu Wanyue, Zhou Xiaotian, Zhang Zhongzhi, and Kan Haibin. Some combinatorial problems in power-law graphs. The Computer Journal, 2021.'
+---
+The power-law behavior is ubiquitous in a majority of real-world networks, and it was shown to have a strong effect on various combinatorial, structural and dynamical properties of graphs. For example, it has been shown that in real-life power-law networks, both the matching number and the domination number are relatively smaller, compared with homogeneous graphs. In this paper, we study analytically several combinatorial problems for two power-law graphs with the same number of vertices, edges and the same power exponent. For both graphs, we determine exactly or recursively their matching number, independence number, domination number, the number of maximum matchings, the number of maximum independent sets and the number of minimum dominating sets. We show that power-law behavior itself cannot characterize the combinatorial properties of a heterogenous graph. Since the combinatorial properties studied here have found wide applications in different fields, such as structural controllability of complex networks, our work offers insight in the applications of these combinatorial problems in power-law graphs.
+[Download paper here](http://vivian1tsui.github.io/files/CompJCombinatorial.pdf)
+
+Recommended citation: Jiang Che, Xu Wanyue, Zhou Xiaotian, Zhang Zhongzhi, and Kan Haibin. Some combinatorial problems in power-law graphs. The Computer Journal, 2021.
