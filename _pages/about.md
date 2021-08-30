@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-   Hello, I am now a Ph.D. student in the Department of Computer Science at Fudan University.
+   Hello, I am now a Ph.D. student in the School of Computer Science at Fudan University.
    
    My research focuses on network science, social networks, complex networks, graph algorithms, and computational social science. 
 
