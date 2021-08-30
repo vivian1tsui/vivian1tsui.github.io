@@ -14,16 +14,15 @@ You can also see my [Résumé](http://vivian1tsui.github.io/files/Resume.pdf).
 Education
 ======
 * B.S. in computer science and technology, Shandong University, 2015-2019
-* M.S. in computer technology, Fudan University, 2019-2021
-* Ph.D in cyber security, Fudan University, 2021-2024 (expected)
+* Ph.D. in computer science, Fudan University, 2019-2024 (expected)
 
 Work experience 
 ======
-* Fall 2019: Research Assistant
+* Fall 2019: Teaching Research Assistant
   * Linear algebra
   * Fudan University
 
-* Fall 2020: Research Assistant
+* Fall 2020: Teaching Research Assistant
   * Linear algebra
   * Fudan University
 
