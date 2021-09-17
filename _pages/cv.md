@@ -18,11 +18,11 @@ Education
 
 Work experience 
 ======
-* Fall 2019: Teaching Research Assistant
+* Fall 2019: Teaching Assistant
   * Linear algebra
   * Fudan University
 
-* Fall 2020: Teaching Research Assistant
+* Fall 2020: Teaching Assistant
   * Linear algebra
   * Fudan University
 
