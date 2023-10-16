@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also see my [Résumé](http://vivian1tsui.github.io/files/Resume.pdf).
+<!--You can also see my [Résumé](http://vivian1tsui.github.io/files/Resume.pdf).-->
 
 Education
 ======
