@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wanyue Xu"
 title_separator          : "-"
 name                     : &name "Wanyue Xu"
-description              : &description "Ph.D. student at Fudan University"
+description              : &description "Ph.D. at Fudan University"
 url                      : https://vivian1tsui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vivian1tsui/xuwy.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About Me"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student @ School of Computer Science and Shanghai Key Laboratory of Intelligent Information Processing, Fudan University"
+  bio              : "AP @ School of Business and Management, SISU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
