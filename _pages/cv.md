@@ -13,18 +13,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in computer science and technology, Shandong University, 2015-2019
-* Ph.D. in computer science, Fudan University, 2019-2024 (expected)
+* B.S. in Computer Science and Technology, Shandong University, 2015-2019
+* Ph.D. in Computer Science, Fudan University, 2019-2024
 
 Work experience 
 ======
-* Fall 2019: Teaching Assistant
-  * Linear algebra
-  * Fudan University
+* 曾担任线性代数、集合与图论、图论及其应用、复杂网络建模与算法课程助教，曾获评复旦大学优秀助教。
 
-* Fall 2020: Teaching Assistant
-  * Linear algebra
-  * Fudan University
+* Served as a teaching assistant for courses such as Linear Algebra, Set Theory and Graph Theory, Graph Theory and Its Applications, and Modeling and Algorithms for Complex Networks, and was awarded the title of Outstanding Teaching Assistant at Fudan University.
+
+* 曾作为香港城市大学EE系访问学者，指导老师是IEEE Fellow、欧洲工程院院士的陈关荣教授，访学期间共同合作论文发表在人工智能领域顶级期刊TCYB上。
+
+* Served as a visiting scholar in the Department of Electrical Engineering at City University of Hong Kong, under the guidance of Professor Guanrong Chen, an IEEE Fellow and a member of the European Academy of Sciences. During the visit, we collaborated on a paper that was published in the top journal TCYB in the field of artificial intelligence.
 
 
 Publications
@@ -46,11 +46,7 @@ Talks
  
 Skills
 ======
-* Python
-* Julia
-* Matlab
-* Java
-* C++
+
 
 <!--- 
 Teaching
