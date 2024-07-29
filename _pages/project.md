@@ -1,5 +1,9 @@
-
-## 参与项目
+---
+layout: archive
+title: "Projects"
+permalink: /talks/
+author_profile: true
+---
 
 ### 社交网络上观点动力学的重要影响因素和快速算法
 - **项目描述：**
