@@ -20,8 +20,10 @@ Email: wanyue DOT tsui AT outlook DOT com
 
 - **大模型与商业计算 LLMs and Business Computation:**
   - 专注于利用大语言模型（LLMs）来增强商业计算的能力。LLMs在文本分析、自然语言理解和生成方面的能力对于战略决策和运营效率至关重要。我的研究旨在通过这些先进的语言处理技术，将数据转化为可操作的商业洞察。
+
+  - **生成式大模型的可解释性（Explainable AI, XAI）及其在人类信任构建和决策过程中的作用。** 通过识别和解释生成式模型中的关键特征和决策路径，研究生成式AI的解释能力与人类信任指标的相关性。从平衡模型的复杂性和可解释性的角度，开发新的算法框架，在医疗健康、金融科技、司法等关键领域中增强人类对AI系统的信任。
 <!--  - Specializing in leveraging Large Language Models (LLMs) to enhance capabilities in business computation. The capabilities of LLMs in text analysis, natural language understanding, and generation are pivotal for strategic decision-making and operational efficiency. My research aims to transform data into actionable business insights through these advanced language processing technologies.-->
- - **生成式大模型的可解释性（Explainable AI, XAI）及其在人类信任构建和决策过程中的作用。** 通过识别和解释生成式模型中的关键特征和决策路径，研究生成式AI的解释能力与人类信任指标的相关性。从平衡模型的复杂性和可解释性的角度，开发新的算法框架，在医疗健康、金融科技、司法等关键领域中增强人类对AI系统的信任。
+
 
 
 - **AI在社会科学中的应用 AI for Social Science:**
